@@ -1,11 +1,22 @@
-Maven Market Report-PowerbI Desktop Project
+Maven Market Power BI Report
 
-Overview: Created interactive reports using various visualizations to support business decisions.
+Overview
+This repository contains the files used for the analysis and report creation for Maven Market, a multi-national grocery chain with locations in Canada, Mexico, and the United States. The main Power BI report file is MavenMarket_Report.pbix.
 
-Key Responsibilities: 1.Imported and cleansed data. 2.Integrated data into a unified model with lookup tables and hierarchies. 3.Developed DAX measures. 4.created report using various visuals like geographical maps, donut charts, matrices.
+Key Responsibilities
+Data Import and Cleansing: Imported and cleaned data from various sources to ensure accuracy and consistency.
+Data Integration: Integrated data into a unified model with lookup tables and hierarchies.
+DAX Measures: Developed DAX measures to calculate key metrics and insights.
 
-In-depth details of the project files are enclosed below.
+Report Design: Created an interactive report using various visualizations such as matrices, KPI cards, maps, and charts to analyze Maven Market's performance and support decision-making.
 
-Topic File Maven Market Business Problems 1 Maven Market Business Problems 1 Maven Market Business Problems 2 Maven Market Business Problems 2 Maven Market Business Problems 3 Maven Market Business Problems 3 Maven Market Business Problems 4 Maven Market Business Problems 4 Business Solution 1 Maven Market Solution 1 Business Solution 2 Maven Market Solution 2 Business Solution 3 Maven Market Solution 3 Business Solution 4 Maven Market Solution 4
+Contents:
+Maven Market Business Problems File contains the business Problems.
+Maven Market Solution file contains the required solutions.
 
-Maven Market Dataset Files MavenMarket_Calendar MavenMarket_Customers MavenMarket_Products MavenMarket_Regions MavenMarket_Returns_1997-1998 MavenMarket_Stores MavenMarket_Transactions_1997 MavenMarket_Transactions_1998
+Conclusion:
+Delivered detailed reports that highlighted key performance indicators (KPIs) and trends, enabling stakeholders to make data-driven decisions.
+Provided actionable insights into sales performance, customer behavior, and product trends, driving strategic initiatives.
+
+
+
